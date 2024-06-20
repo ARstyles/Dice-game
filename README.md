@@ -10,7 +10,6 @@ A Dice Game written in python .The game can played between 2-4 players where to 
 <h4>Day 2</h4>
 <ol>
   <li>Python program to print numbers from 1 to 100 with the specified rules </li>
-  <h5>Python concepts used:</h5>
   <ul>
     <li>loops and conditional statements</li>
   </ul>
