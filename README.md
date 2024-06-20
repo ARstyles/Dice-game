@@ -19,7 +19,7 @@ A Dice Game written in python .The game can played between 2-4 players where to 
     <li>File Handling</li>
     <li>String Manipulation</li>
     <li>loops and conditional statements</li>
-    <li>Data Structures(sets and Dictionaries</li>
+    <li>Data Structures(sets and Dictionaries)</li>
     <li>User Input</li>
   </ul>
 </ol>
