@@ -13,6 +13,7 @@ A Dice Game written in python .The game can played between 2-4 players where to 
   <ul>
     <li>loops and conditional statements</li>
   </ul>
+  <br>
   <li> Madlibs generator</li>
   <ul>
     <li>File Handling</li>
