@@ -19,7 +19,15 @@ A Dice Game written in python .The game can played between 2-4 players where to 
     <li>File Handling</li>
     <li>String Manipulation</li>
     <li>loops and conditional statements</li>
-    <li>Data Structures(sets and Dictionaries)</li>
+    <li>Data Structures (sets and Dictionaries)</li>
     <li>User Input</li>
   </ul>
 </ol>
+<h4>Day 3</h4>
+This python program to generate and quiz the user on 10 simple arithmetic problems, involving addition, subtraction, and multiplication. 
+<ul>
+  <li>Random module</li>
+  <li>Time module</li>
+  <li>String manipulation </li>
+  <li>eval() function </li>
+</ul>
