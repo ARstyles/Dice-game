@@ -31,3 +31,13 @@ This python program to generate and quiz the user on 10 simple arithmetic proble
   <li>String manipulation </li>
   <li>eval() function </li>
 </ul>
+<h4>Day 4</h4>
+Created a Chat application using python, Flask, and SocketIO
+<ul>
+  <li>Flask</li>
+  <li>SocketIO</li>
+  <li>render_template</li>
+  <li>request</li>
+  <li>session </li>
+</ul>
+
