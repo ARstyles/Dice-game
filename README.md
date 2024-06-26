@@ -40,4 +40,11 @@ Created a Chat application using python, Flask, and SocketIO
   <li>request</li>
   <li>session </li>
 </ul>
-
+<h4>Day 5</h4>
+ Python program that solves a given 9x9 Sudoku puzzle
+ <ul>
+   <li>Data Structures</li>
+   <li>pprint</li>
+   <li>recursive functions </li>
+   <li>writing statements </li>
+ </ul>
